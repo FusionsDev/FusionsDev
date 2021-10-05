@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Fusions! ![](https://komarev.com/ghpvc/?username=FusionsDev&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://fusions.dev/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://fusions.dev/)
 ---
-I am a DiscordJS Developer! Currently coding some new projects for the community of ```jsDiscord```!
+I am a DiscordJS Developer! Currently coding some new projects for the community of ```Discord```!
 
 
 ---
