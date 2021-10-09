@@ -13,4 +13,4 @@ I am a DiscordJS Developer! Currently coding some new projects for the community
 
 ---
 
-<h3 align=center>Show some ❤️</h3>
+<h3 align=center>Show some ❤️ to Fusions#6607</h3>
