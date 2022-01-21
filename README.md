@@ -44,6 +44,6 @@ Why do you actually read this...
 
 ---
 
-<h3 align=center>Made with ❤️ by [Fusions#6607](https://fusions.dev/discord)</h3>
+Made with ❤️ by [Fusions#6607](https://fusions.dev/discord)
 
 ---
