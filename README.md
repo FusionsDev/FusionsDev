@@ -1,5 +1,6 @@
 ## Hey 👋, I'm [Fusions!](https://fusions.dev/)
 
+---
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://fusions.dev/discord)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://fusions.dev/)
@@ -8,14 +9,19 @@
 
 Why do you actually read this...
 
+---
 
 ### Some Highlights:
 
 - 📌 &nbsp; Coming soon.
 
+---
+
 ### My Discords
 
 - [My Development Discord](https://fusions.dev/discord)
+
+---
 
 ### Languages and Tools:
 
@@ -23,6 +29,8 @@ Why do you actually read this...
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+---
 
 ### ⚙️ &nbsp;GitHub Stats
 
