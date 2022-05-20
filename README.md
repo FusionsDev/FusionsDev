@@ -5,7 +5,9 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://fusions.dev/discord)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://fusions.dev/)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=fusionsdev&label=Views&color=blue&style=plastic)
+### Glad to see you here! &nbsp; 
+![](https://komarev.com/ghpvc/?username=fusionsdev&label=Views&color=blue&style=plastic)
+[![Coding Time](https://wakatime.com/badge/user/f620b2d3-452b-43b3-abe4-bf8d1bddaccb/project/5becf72b-ba25-4e27-89d8-ba432f5c0cae.svg)](https://wakatime.com/badge/user/f620b2d3-452b-43b3-abe4-bf8d1bddaccb/project/5becf72b-ba25-4e27-89d8-ba432f5c0cae)
 
 Why do you actually read this...
 
