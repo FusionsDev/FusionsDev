@@ -18,4 +18,6 @@ const polish = {
 
 }
 
+exports.poland = poland;
+
 ```
