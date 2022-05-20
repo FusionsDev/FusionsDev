@@ -4,6 +4,11 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://fusions.dev/)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=fusionsdev&label=Views&color=blue&style=plastic)
+
+Why your willing to read this I have no clue...
+
+---
+
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -38,7 +43,6 @@
 
 ---
 
-A little more about me! 
 
 ```js
 
