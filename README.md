@@ -1,9 +1,9 @@
 # Hi, I'm Fusions!
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://fusions.dev/discord)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://fusions.dev/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://fusions.world/discord)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://fusions.world/)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=fusionsdev&label=Views&color=blue&style=plastic)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=fusionsworld&label=Views&color=blue&style=plastic)
 
 Why your willing to read this I have no clue...
 
@@ -22,9 +22,9 @@ Why your willing to read this I have no clue...
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/FusionsDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FusionsDev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FusionsDev&layout=compact&langs_count=8&theme=react"/>
+<a href="https://github.com/fusionsworld">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fusionsworld&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fusionsworld&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
@@ -35,7 +35,7 @@ Why your willing to read this I have no clue...
 - OS: Windows 11
 - Browser: Google Chrome
 - Code Editor: Visual Studio Code
-- Stay Updated: [Discord](https://fusions.dev/discord)
+- Stay Updated: [Discord](https://fusions.world/discord)
 
 ---
 
