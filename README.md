@@ -48,11 +48,9 @@ Why your willing to read this I have no clue...
 
 const polish = {
 
-  code: [JavaScript, HTML, CSS],
+  code: [JavaScript, HTML, CSS, EJS],
   tools: [Visual Studio Code], 
   
-  challenge: "My challenge is to complete a advanced discord.js v13 slash command bot.",
-
 }
 
 exports.poland = poland;
