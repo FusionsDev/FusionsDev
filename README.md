@@ -1,7 +1,7 @@
 # Hi, I'm Fusions!
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://fusions.world/discord)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://fusions.world/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://spacemods.xyz/discord)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://spacemods.xyz/)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=fusionsworld&label=Views&color=blue&style=plastic)
 
@@ -35,24 +35,6 @@ Why your willing to read this I have no clue...
 - OS: Windows 11
 - Browser: Google Chrome
 - Code Editor: Visual Studio Code
-- Stay Updated: [Discord](https://fusions.world/discord)
+- Stay Updated: [Discord](https://spacemods.xyz/discord)
 
 ---
-
-
-
----
-
-
-```js
-
-const polish = {
-
-  code: [JavaScript, HTML, CSS, EJS],
-  tools: [Visual Studio Code], 
-  
-}
-
-exports.poland = poland;
-
-```
