@@ -6,7 +6,7 @@
 
 
 
-<h4 align="center">I am a fullstack web, bot and application developer, taking commissions and always working on something new.<br></h4>
+<h4 align="center">I am a web and bot developer, taking commissions and always working on something new.<br></h4>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fusionsworld&show_icons=true&theme=synthwave">
